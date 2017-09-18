@@ -1,0 +1,15 @@
+body{
+  font-family: "Verdana";
+  background-color: #0C233F;
+}
+#title{
+  color: white;
+  font-size: 120%;
+  position: relative;
+  left: 20px;
+  bottom: 10px;
+}
+#logo{
+  width: 265px;
+  height: 65px;
+}
