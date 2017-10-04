@@ -27,7 +27,7 @@ body{
   font-family: "Verdana";
   font-style: italic;
   position: relative;
-  left: 1165px;
+  left: 1155px;
   bottom: 95px;
   font-size: 90%;
   color: white;
@@ -50,12 +50,19 @@ a {
   color: #0C233F;
 }
 
+/*#socialmedia{
+  color: #217a94;
+  position: relative;
+  left: 100px;
+
+}*/
+
 #support{
   font-family: "Verdana";
   font-size: 90%;
   position: relative;
   bottom: 95px;
-  left: 110px;
+  left: 120px;
   color: white;
   background-color: #0C233F;
   border: none;
